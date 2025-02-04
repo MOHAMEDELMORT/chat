@@ -4,8 +4,8 @@ $name = $_POST["name"];
 $usertele = $_POST["user"];
 $messagee = $_POST["message"];
 
-$API_KEY = "5929414297:AAH_KLpHkXSaePqRBOwJqz13amUZKmCUnO4"; //توكن البوت
-$admin = 1372188096 ; //تيليجرام ايدي
+$API_KEY = "5711383102:AAFKtzhRZPfwNqYIkQ8t4thZAvLmohBB2LQ"; //توكن البوت
+$admin = 5089553588 ; //تيليجرام ايدي
 
 $text = urlencode("
 name : $name
